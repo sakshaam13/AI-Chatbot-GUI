@@ -1,0 +1,12 @@
+customtkinter
+Pillow
+wikipedia
+Json
+traceback
+requests
+tkinter
+datetime
+webbrowser
+time
+re
+os

@@ -1,4 +1,3 @@
-# AI-Chatbot-GUI
 # AI Chatbot Desktop App
 
 A local AI-powered chatbot built using Python, CustomTkinter, and Wikipedia API. Features include:
